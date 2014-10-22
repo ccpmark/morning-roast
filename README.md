@@ -1,9 +1,10 @@
 morning-roast
 =============
-A collection of startup environments for our developers
-### Backend Branch
+A collection of startup environments for our developers at the @robinpowered team
 
-This branch is tailored for our MNMP stack developers ;) uses [homebrew](https://github.com/Homebrew/homebrew) and [phpbrew](https://github.com/phpbrew/phpbrew) for installations.
+### `backend-dev` Folder
+
+This folder is tailored for our MNMP stack developers ;) uses [homebrew](https://github.com/Homebrew/homebrew) and [phpbrew](https://github.com/phpbrew/phpbrew) for installations.
 
 #### Stack Related Packages
 ```
