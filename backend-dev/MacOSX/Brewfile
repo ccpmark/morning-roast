@@ -7,6 +7,10 @@ install wget --enable-iri
 install coreutils
 install moreutils
 install findutils
+install gd --universal
+install libjpeg --universal
+install libpng --universal
+install ImageMagick --with-ghostscript
 
 # Useful stack tools
 install autoconf
